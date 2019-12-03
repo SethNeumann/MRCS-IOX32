@@ -33,5 +33,5 @@ Use the Bare Board Option if you want to assemble your own or if you need a 0.10
 All assembled and tested configurations of the IOX32 include a 6" I2C jumper and 2 address jumpers
 
 The IOX32 draws 10mA @ 5 volts through the (included) I2C expansion cable from the host cpNode.
-
-The sch andbrd files are not sync'd due to some convernsion issues, we expect to issue an updated design with proper Eagle Back Annotation in early 2020
+ 
+The sch and brd files are not sync'd due to some conversion issues, we expect to issue an updated design with proper Eagle Back Annotation in early 2020
