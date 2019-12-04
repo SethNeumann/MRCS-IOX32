@@ -1,4 +1,4 @@
-# REPO NAME: MRCS-IOX32
+# MRCS-IOX32
 
 ## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
